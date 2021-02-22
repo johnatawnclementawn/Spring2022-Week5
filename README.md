@@ -27,6 +27,6 @@ Steps for replicating "PrjA1_DSTL_ImgChannelsMasks.ipynb" :
 - Run the notebook (!!! you may need to edit the path to data)
 
 
-Article of the week:
+### Article of the week:
 Very interesting article, please check:
 https://hub.packtpub.com/8-machine-learning-best-practices/
