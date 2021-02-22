@@ -4,6 +4,7 @@
 
 This repository contains:
 
+- [ML evaluation metrics](ML_EvalMetrics.ipynb)
 - [Introduction to satellite image analysis with Python, DSTL challenge](PrjA1_DSTL_ImgChannelsMasks.ipynb)
 - [A first machine learning application using Satellite imaging, DSTL challenge](PrjB3_DSTL_Clustering.ipynb)
 - [Image clustering, Philadelphia](PrjB4_Sentinel_Clustering.ipynb)
@@ -26,3 +27,6 @@ Steps for replicating "PrjA1_DSTL_ImgChannelsMasks.ipynb" :
 - Run the notebook (!!! you may need to edit the path to data)
 
 
+Article of the week:
+Very interesting article, please check:
+https://hub.packtpub.com/8-machine-learning-best-practices/
