@@ -1,6 +1,6 @@
 # MUSA 650: Machine Learning in Remote Sensing
 
-## Week4: Data Representation and Unsupervised Learning
+## Week5: Evaluation metrics, images to numpy arrays, introduction to satellite images
 
 This repository contains:
 
