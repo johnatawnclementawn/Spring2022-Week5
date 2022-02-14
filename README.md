@@ -15,7 +15,7 @@ This repository contains:
 You can run this week's satellite imaging notebooks on "Google Colab"
 
 Sharing link for Jupyter notebooks:
-https://drive.google.com/drive/folders/1xmfpG3KtoZoZwnr7pK4EEvFJfEyeAFoM?usp=sharing
+https://drive.google.com/drive/folders/1tFpnkiVi6N9AktfZ-3Y6mKCVtIDN_QDq?usp=sharing
 
 Sharing link for datasets:
 https://drive.google.com/drive/folders/10HpS26ZPhUXaJ8FrEMuUD01-aSjoTfC7?usp=sharing
